@@ -8,6 +8,6 @@ Python 2.7.6
 
 ## parser.rb
 
-Run "ruby parser.rb"
+Parses the html documents downloaded by scraper.py (see generated 'profiles' folder). Install nokogiri gem by running "gem install nokogiri". Then run "ruby parser.rb"
 
 ruby 1.9.3p484
